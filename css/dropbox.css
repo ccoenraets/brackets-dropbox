@@ -1,0 +1,23 @@
+.dp-open-folder-dialog .highlight {
+    background-color: blue;
+    color: white;
+}
+
+.dp-open-folder-dialog td {
+    vertical-align: middle;
+}
+
+.dp-open-folder-dialog .file-icon {
+    text-align: center;
+    width: 30px;
+}
+
+
+.dropbox-path {
+    padding-bottom: 12px;
+}
+
+.dropbox-user {
+    padding-top: 0px;
+    padding-bottom: 6px;
+}
