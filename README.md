@@ -8,6 +8,7 @@ a project hosted in Dropbox from any computer without having to install and conf
 Watch the [video](http://www.youtube.com/watch?v=WzrmGCqC_uE&feature=share&list=UUa-0FYdNAFp9Fp9dtR1ETXg).
 
 This extension is a PROOF OF CONCEPT and is not suitable for production use yet. However, the basic functionality is there, and I thought it would be interesting to share it at this stage. Some of the limitations include:
-1. It creates a local version of the files. Ideally I’d like it to work without any local files being created.
-2. It doesn’t handle subfolders (Brackets Sprint 14 doesn’t provide an API to create folders)
-3. If you restart Brackets, it doesn’t reconnect the local project folder with the Dropbox folder. You have to open a new empty folder on your local file system and Open the Dropbox folder again.
+
+1.  It creates a local version of the files. Ideally I’d like it to work without any local files being created.
+2.  It doesn’t handle subfolders (Brackets Sprint 14 doesn’t provide an API to create folders)
+3.  If you restart Brackets, it doesn’t reconnect the local project folder with the Dropbox folder. You have to open a new empty folder on your local file system and Open the Dropbox folder again.
